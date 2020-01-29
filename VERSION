@@ -1,0 +1,5 @@
+commit 115edc9745cec58b9e2f354a1d2b9ca7a1df023a
+Author: Christopher Joel <cdata@google.com>
+Date:   Wed Jan 29 14:00:34 2020 -0800
+
+    Fix poster alignment when text-align is set (#973)
